@@ -103,6 +103,7 @@ if __name__ == "__main__":
 
 
 ---
-<img width="876" height="541" alt="image" src="https://github.com/user-attachments/assets/813a6e52-ceaf-4f53-845b-fceaf745ef3f" />
+<img width="1596" height="804" alt="image" src="https://github.com/user-attachments/assets/48222f1b-a7e1-4a7c-bb09-39ae5aa1c829" />
+
 ## RESULT:
 The prototype application for text-to-image generation utilizing the Stable Diffusion model and the Gradio framework was successfully developed, tested, and deployed with an intuitive web interface for real-time user interaction.
